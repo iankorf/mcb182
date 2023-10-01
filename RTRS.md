@@ -1,0 +1,24 @@
+- ChatGPT
+	- Would you trust AI to diagnose a lump in your armpit?
+	- Is AI-created art actually art?
+	- What will be the best use of AI?
+	- What is the scariest use of AI?
+	- Would you pay for college that was taught by AI?
+	- Should you be allowed to use ChatGPT for homework?
+- DEI, politics
+	- Can you think of any currently legal forms of discrimination?
+	- Do you think DEI is necessary?
+	- Why do we care about DEI?
+	- Do you think science should strive to ignore politics?
+- Genetics and society
+	- Should athletes be allowed to use performance enhancing drugs?
+- Local interest
+	- Stabber
+	- Bomb threats
+	- Homeless students
+	- UCD unfair policies...
+- Kids these days
+	- What's different about your generation
+		- Better
+		- Worse
+	- Has social media made people closer or more isolated?
